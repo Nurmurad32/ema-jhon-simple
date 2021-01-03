@@ -1,0 +1,29 @@
+.form-style{
+    border: 1px solid  #ababab;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 25px 20px;
+}
+.input{
+    width: 300px !important;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.login-google{
+    display: flex;
+    overflow: hidden;
+    text-align: center;
+    border: 1px solid #ababab;
+    border-radius: 50px;
+    height: 51px;
+    padding: 10px;
+    width: 350px;
+    margin: 0 auto 15px;
+}
+.login-google:hover {
+    border: 1px solid #007bff;
+    cursor: pointer;
+}
+.login-google p {
+    margin: 0 auto;
+}
